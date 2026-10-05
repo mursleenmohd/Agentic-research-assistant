@@ -1,0 +1,24 @@
+# LLM + LangChain
+langchain
+langchain-groq
+langgraph
+
+# MCP
+mcp[cli]==1.29.0
+langchain-mcp-adapters==0.3.1
+
+# Backend
+fastapi
+uvicorn[standard]
+
+# Frontend
+streamlit
+requests
+
+# Data validation + configuration
+pydantic
+python-dotenv
+
+# HTTP / async
+httpx
+anyio
